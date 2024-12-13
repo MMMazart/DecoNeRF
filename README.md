@@ -1,1 +1,1 @@
-# Decoupling-Scattering-Pseudo-Label-Guided-NeRF-for-Scenes-with-Scattering-Media
+# Decoupling Scattering: Pseudo-Label Guided NeRF for Scenes with Scattering Media
